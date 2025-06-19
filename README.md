@@ -1,6 +1,6 @@
-## 📊 Machine Health Visualization (Powered by Grafana + AI)
 
-![Grafana Dashboard](grafana_dashboard.png)
+
+![Grafana Dashboard](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeiconspng.com%2Fimages%2Fartificial-intelligence-icon-png&psig=AOvVaw2gB7kXB5hDO10qawRNPaig&ust=1750440305649000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj7pruA_o0DFQAAAAAdAAAAABAE)
 
 # GPIL Project 01 – MongoDB + Grafana Data Visualization
 
