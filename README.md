@@ -1,3 +1,7 @@
+## 📊 Machine Health Visualization (Powered by Grafana + AI)
+
+![Grafana Dashboard](grafana_dashboard.png)
+
 # GPIL Project 01 – MongoDB + Grafana Data Visualization
 
 This project is part of my internship at **Godavari Power and Ispat Limited (GPIL)**. The goal is to visualize industrial machine data using **Grafana**, with data stored and queried from **MongoDB**.
